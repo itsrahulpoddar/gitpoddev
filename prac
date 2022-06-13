@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is my webpage</title>
+  </head>
+  <body>
+    <h1> Hello World</h1>
+    <p> This is a paragraph</p>
+    <p>This a another paragraph on this webpage.</p>
+    <h2>Hello Universe</h2>
+     
+    <a href="http://www.google.com">Click here</a><br>
+    <a href="http://www.google.com"target="_blank">Click here</a><br>
+    <img src= "https://https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+  </body>
+</html>
